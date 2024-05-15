@@ -16,3 +16,4 @@ CREATE TABLE IF NOT EXISTS public.tasks
     CONSTRAINT tasks_pkey PRIMARY KEY (task_id)
 )
 
+Видео взаимодействия с чат-ботом – screencast.mov
